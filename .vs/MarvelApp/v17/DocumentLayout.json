@@ -1,0 +1,597 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\MarvelApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8778B3A-10F9-4EA6-AA74-2B26A411EC6E}|Api\\Api.csproj|c:\\users\\pc\\source\\repos\\marvelapp\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8778B3A-10F9-4EA6-AA74-2B26A411EC6E}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8778B3A-10F9-4EA6-AA74-2B26A411EC6E}|Api\\Api.csproj|c:\\users\\pc\\source\\repos\\marvelapp\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8778B3A-10F9-4EA6-AA74-2B26A411EC6E}|Api\\Api.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8778B3A-10F9-4EA6-AA74-2B26A411EC6E}|Api\\Api.csproj|c:\\users\\pc\\source\\repos\\marvelapp\\api\\controllers\\comiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8778B3A-10F9-4EA6-AA74-2B26A411EC6E}|Api\\Api.csproj|solutionrelative:api\\controllers\\comiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8778B3A-10F9-4EA6-AA74-2B26A411EC6E}|Api\\Api.csproj|c:\\users\\pc\\source\\repos\\marvelapp\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C8778B3A-10F9-4EA6-AA74-2B26A411EC6E}|Api\\Api.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8778B3A-10F9-4EA6-AA74-2B26A411EC6E}|Api\\Api.csproj|c:\\users\\pc\\source\\repos\\marvelapp\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8778B3A-10F9-4EA6-AA74-2B26A411EC6E}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8778B3A-10F9-4EA6-AA74-2B26A411EC6E}|Api\\Api.csproj|c:\\users\\pc\\source\\repos\\marvelapp\\api\\middleware\\validationexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8778B3A-10F9-4EA6-AA74-2B26A411EC6E}|Api\\Api.csproj|solutionrelative:api\\middleware\\validationexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8778B3A-10F9-4EA6-AA74-2B26A411EC6E}|Api\\Api.csproj|c:\\users\\pc\\source\\repos\\marvelapp\\api\\requestvalidator\\request\\registeruserdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8778B3A-10F9-4EA6-AA74-2B26A411EC6E}|Api\\Api.csproj|solutionrelative:api\\requestvalidator\\request\\registeruserdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8778B3A-10F9-4EA6-AA74-2B26A411EC6E}|Api\\Api.csproj|c:\\users\\pc\\source\\repos\\marvelapp\\api\\requestvalidator\\request\\addfavoritecomicdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8778B3A-10F9-4EA6-AA74-2B26A411EC6E}|Api\\Api.csproj|solutionrelative:api\\requestvalidator\\request\\addfavoritecomicdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8778B3A-10F9-4EA6-AA74-2B26A411EC6E}|Api\\Api.csproj|c:\\users\\pc\\source\\repos\\marvelapp\\api\\requestvalidator\\request\\logindtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8778B3A-10F9-4EA6-AA74-2B26A411EC6E}|Api\\Api.csproj|solutionrelative:api\\requestvalidator\\request\\logindtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29C6B73-C6A1-4373-93B7-A2B506F67B8D}|Application\\Application.csproj|c:\\users\\pc\\source\\repos\\marvelapp\\application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29C6B73-C6A1-4373-93B7-A2B506F67B8D}|Application\\Application.csproj|solutionrelative:application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29C6B73-C6A1-4373-93B7-A2B506F67B8D}|Application\\Application.csproj|c:\\users\\pc\\source\\repos\\marvelapp\\application\\interface\\iusersevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29C6B73-C6A1-4373-93B7-A2B506F67B8D}|Application\\Application.csproj|solutionrelative:application\\interface\\iusersevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29C6B73-C6A1-4373-93B7-A2B506F67B8D}|Application\\Application.csproj|c:\\users\\pc\\source\\repos\\marvelapp\\application\\services\\favoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29C6B73-C6A1-4373-93B7-A2B506F67B8D}|Application\\Application.csproj|solutionrelative:application\\services\\favoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29C6B73-C6A1-4373-93B7-A2B506F67B8D}|Application\\Application.csproj|c:\\users\\pc\\source\\repos\\marvelapp\\application\\interface\\ifavoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29C6B73-C6A1-4373-93B7-A2B506F67B8D}|Application\\Application.csproj|solutionrelative:application\\interface\\ifavoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB79B03-77EE-4B6E-8037-B8A3E60E1557}|Domain\\Domain.csproj|c:\\users\\pc\\source\\repos\\marvelapp\\domain\\repositories\\ifavoritelistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB79B03-77EE-4B6E-8037-B8A3E60E1557}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\ifavoritelistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29C6B73-C6A1-4373-93B7-A2B506F67B8D}|Application\\Application.csproj|c:\\users\\pc\\source\\repos\\marvelapp\\application\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29C6B73-C6A1-4373-93B7-A2B506F67B8D}|Application\\Application.csproj|solutionrelative:application\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37DDACC-3C15-4A7E-A07F-B3730656C07B}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\source\\repos\\marvelapp\\infrastructure\\repositories\\favoritelistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37DDACC-3C15-4A7E-A07F-B3730656C07B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\favoritelistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB79B03-77EE-4B6E-8037-B8A3E60E1557}|Domain\\Domain.csproj|c:\\users\\pc\\source\\repos\\marvelapp\\domain\\entities\\favoritecomic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB79B03-77EE-4B6E-8037-B8A3E60E1557}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\favoritecomic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29C6B73-C6A1-4373-93B7-A2B506F67B8D}|Application\\Application.csproj|c:\\users\\pc\\source\\repos\\marvelapp\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C29C6B73-C6A1-4373-93B7-A2B506F67B8D}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29C6B73-C6A1-4373-93B7-A2B506F67B8D}|Application\\Application.csproj|c:\\users\\pc\\source\\repos\\marvelapp\\application\\dtos\\favoritecomicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29C6B73-C6A1-4373-93B7-A2B506F67B8D}|Application\\Application.csproj|solutionrelative:application\\dtos\\favoritecomicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29C6B73-C6A1-4373-93B7-A2B506F67B8D}|Application\\Application.csproj|c:\\users\\pc\\source\\repos\\marvelapp\\application\\helpers\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29C6B73-C6A1-4373-93B7-A2B506F67B8D}|Application\\Application.csproj|solutionrelative:application\\helpers\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29C6B73-C6A1-4373-93B7-A2B506F67B8D}|Application\\Application.csproj|c:\\users\\pc\\source\\repos\\marvelapp\\application\\dtos\\addfavoritecomicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29C6B73-C6A1-4373-93B7-A2B506F67B8D}|Application\\Application.csproj|solutionrelative:application\\dtos\\addfavoritecomicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29C6B73-C6A1-4373-93B7-A2B506F67B8D}|Application\\Application.csproj|c:\\users\\pc\\source\\repos\\marvelapp\\application\\services\\comicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29C6B73-C6A1-4373-93B7-A2B506F67B8D}|Application\\Application.csproj|solutionrelative:application\\services\\comicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29C6B73-C6A1-4373-93B7-A2B506F67B8D}|Application\\Application.csproj|c:\\users\\pc\\source\\repos\\marvelapp\\application\\dtos\\comicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29C6B73-C6A1-4373-93B7-A2B506F67B8D}|Application\\Application.csproj|solutionrelative:application\\dtos\\comicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37DDACC-3C15-4A7E-A07F-B3730656C07B}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\source\\repos\\marvelapp\\infrastructure\\marvelapi\\marvelapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37DDACC-3C15-4A7E-A07F-B3730656C07B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\marvelapi\\marvelapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29C6B73-C6A1-4373-93B7-A2B506F67B8D}|Application\\Application.csproj|c:\\users\\pc\\source\\repos\\marvelapp\\application\\interface\\icomicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29C6B73-C6A1-4373-93B7-A2B506F67B8D}|Application\\Application.csproj|solutionrelative:application\\interface\\icomicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29C6B73-C6A1-4373-93B7-A2B506F67B8D}|Application\\Application.csproj|c:\\users\\pc\\source\\repos\\marvelapp\\application\\dtos\\comicresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29C6B73-C6A1-4373-93B7-A2B506F67B8D}|Application\\Application.csproj|solutionrelative:application\\dtos\\comicresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29C6B73-C6A1-4373-93B7-A2B506F67B8D}|Application\\Application.csproj|c:\\users\\pc\\source\\repos\\marvelapp\\application\\dtos\\comicdatawrapperdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29C6B73-C6A1-4373-93B7-A2B506F67B8D}|Application\\Application.csproj|solutionrelative:application\\dtos\\comicdatawrapperdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37DDACC-3C15-4A7E-A07F-B3730656C07B}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\source\\repos\\marvelapp\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37DDACC-3C15-4A7E-A07F-B3730656C07B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37DDACC-3C15-4A7E-A07F-B3730656C07B}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\source\\repos\\marvelapp\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F37DDACC-3C15-4A7E-A07F-B3730656C07B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37DDACC-3C15-4A7E-A07F-B3730656C07B}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\source\\repos\\marvelapp\\infrastructure\\persistence\\marveldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37DDACC-3C15-4A7E-A07F-B3730656C07B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\marveldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB79B03-77EE-4B6E-8037-B8A3E60E1557}|Domain\\Domain.csproj|c:\\users\\pc\\source\\repos\\marvelapp\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB79B03-77EE-4B6E-8037-B8A3E60E1557}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29C6B73-C6A1-4373-93B7-A2B506F67B8D}|Application\\Application.csproj|c:\\users\\pc\\source\\repos\\marvelapp\\application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29C6B73-C6A1-4373-93B7-A2B506F67B8D}|Application\\Application.csproj|solutionrelative:application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29C6B73-C6A1-4373-93B7-A2B506F67B8D}|Application\\Application.csproj|c:\\users\\pc\\source\\repos\\marvelapp\\application\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29C6B73-C6A1-4373-93B7-A2B506F67B8D}|Application\\Application.csproj|solutionrelative:application\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB79B03-77EE-4B6E-8037-B8A3E60E1557}|Domain\\Domain.csproj|c:\\users\\pc\\source\\repos\\marvelapp\\domain\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB79B03-77EE-4B6E-8037-B8A3E60E1557}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB79B03-77EE-4B6E-8037-B8A3E60E1557}|Domain\\Domain.csproj|c:\\users\\pc\\source\\repos\\marvelapp\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9DB79B03-77EE-4B6E-8037-B8A3E60E1557}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB79B03-77EE-4B6E-8037-B8A3E60E1557}|Domain\\Domain.csproj|c:\\users\\pc\\source\\repos\\marvelapp\\domain\\entities\\comic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB79B03-77EE-4B6E-8037-B8A3E60E1557}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\comic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterUserDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Api\\RequestValidator\\Request\\RegisterUserDtoValidator.cs",
+              "RelativeDocumentMoniker": "Api\\RequestValidator\\Request\\RegisterUserDtoValidator.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Api\\RequestValidator\\Request\\RegisterUserDtoValidator.cs",
+              "RelativeToolTip": "Api\\RequestValidator\\Request\\RegisterUserDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T03:35:03.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FavoriteService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Application\\Services\\FavoriteService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\FavoriteService.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Application\\Services\\FavoriteService.cs",
+              "RelativeToolTip": "Application\\Services\\FavoriteService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAqwDoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:09:51.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAawFsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:14:31.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComicController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Api\\Controllers\\ComicController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\ComicController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Api\\Controllers\\ComicController.cs",
+              "RelativeToolTip": "Api\\Controllers\\ComicController.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAowJUAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T01:20:55.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Api\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:40:58.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Api.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Api\\Api.csproj",
+              "RelativeDocumentMoniker": "Api\\Api.csproj",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Api\\Api.csproj",
+              "RelativeToolTip": "Api\\Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-25T23:14:30.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-25T23:14:31.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ValidationExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Api\\Middleware\\ValidationExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Api\\Middleware\\ValidationExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Api\\Middleware\\ValidationExceptionMiddleware.cs",
+              "RelativeToolTip": "Api\\Middleware\\ValidationExceptionMiddleware.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA2wCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T04:06:30.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Api\\RequestValidator\\Request\\LoginDtoValidator.cs",
+              "RelativeDocumentMoniker": "Api\\RequestValidator\\Request\\LoginDtoValidator.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Api\\RequestValidator\\Request\\LoginDtoValidator.cs",
+              "RelativeToolTip": "Api\\RequestValidator\\Request\\LoginDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T03:47:02.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddFavoriteComicDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Api\\RequestValidator\\Request\\AddFavoriteComicDtoValidator.cs",
+              "RelativeDocumentMoniker": "Api\\RequestValidator\\Request\\AddFavoriteComicDtoValidator.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Api\\RequestValidator\\Request\\AddFavoriteComicDtoValidator.cs",
+              "RelativeToolTip": "Api\\RequestValidator\\Request\\AddFavoriteComicDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T03:47:45.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IFavoriteService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Application\\Interface\\IFavoriteService.cs",
+              "RelativeDocumentMoniker": "Application\\Interface\\IFavoriteService.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Application\\Interface\\IFavoriteService.cs",
+              "RelativeToolTip": "Application\\Interface\\IFavoriteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:13:14.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Application\\Services\\UserService.cs",
+              "RelativeToolTip": "Application\\Services\\UserService.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAWwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:14:32.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserSevice.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Application\\Interface\\IUserSevice.cs",
+              "RelativeDocumentMoniker": "Application\\Interface\\IUserSevice.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Application\\Interface\\IUserSevice.cs",
+              "RelativeToolTip": "Application\\Interface\\IUserSevice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:31:40.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IFavoriteListRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Domain\\Repositories\\IFavoriteListRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\IFavoriteListRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Domain\\Repositories\\IFavoriteListRepository.cs",
+              "RelativeToolTip": "Domain\\Repositories\\IFavoriteListRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:14:31.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-25T23:14:30.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FavoriteListRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Infrastructure\\Repositories\\FavoriteListRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\FavoriteListRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Infrastructure\\Repositories\\FavoriteListRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\FavoriteListRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwCAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:14:32.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FavoriteComic.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Domain\\Entities\\FavoriteComic.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\FavoriteComic.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Domain\\Entities\\FavoriteComic.cs",
+              "RelativeToolTip": "Domain\\Entities\\FavoriteComic.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwBAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:14:26.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Application\\Mappings\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Mappings\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Application\\Mappings\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Application\\Mappings\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T03:37:19.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FavoriteComicDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Application\\DTOs\\FavoriteComicDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\FavoriteComicDto.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Application\\DTOs\\FavoriteComicDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\FavoriteComicDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:08:55.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddFavoriteComicDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Application\\DTOs\\AddFavoriteComicDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\AddFavoriteComicDto.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Application\\DTOs\\AddFavoriteComicDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\AddFavoriteComicDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:09:27.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Application\\Helpers\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "Application\\Helpers\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Application\\Helpers\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "Application\\Helpers\\JwtTokenGenerator.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:17:07.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IComicService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Application\\Interface\\IComicService.cs",
+              "RelativeDocumentMoniker": "Application\\Interface\\IComicService.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Application\\Interface\\IComicService.cs",
+              "RelativeToolTip": "Application\\Interface\\IComicService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:53:41.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MarvelApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Infrastructure\\MarvelApi\\MarvelApiClient.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\MarvelApi\\MarvelApiClient.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Infrastructure\\MarvelApi\\MarvelApiClient.cs",
+              "RelativeToolTip": "Infrastructure\\MarvelApi\\MarvelApiClient.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAmwDwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:44:25.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ComicService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Application\\Services\\ComicService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ComicService.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Application\\Services\\ComicService.cs",
+              "RelativeToolTip": "Application\\Services\\ComicService.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAlwCQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:48:17.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ComicDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Application\\DTOs\\ComicDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ComicDto.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Application\\DTOs\\ComicDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\ComicDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T03:35:25.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ComicResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Application\\DTOs\\ComicResultDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ComicResultDto.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Application\\DTOs\\ComicResultDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\ComicResultDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T03:17:03.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ComicDataWrapperDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Application\\DTOs\\ComicDataWrapperDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ComicDataWrapperDto.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Application\\DTOs\\ComicDataWrapperDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\ComicDataWrapperDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T03:15:31.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:14:32.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-25T23:14:30.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIAwwBAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:14:29.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MarvelDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Infrastructure\\Persistence\\MarvelDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\MarvelDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Infrastructure\\Persistence\\MarvelDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\MarvelDbContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwBsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:14:30.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Application\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Application\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:22:08.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RegisterUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Application\\DTOs\\RegisterUserDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\RegisterUserDto.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Application\\DTOs\\RegisterUserDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\RegisterUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:21:52.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Domain\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Domain\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Domain\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:14:31.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-25T23:14:30.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Comic.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Domain\\Entities\\Comic.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Comic.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\MarvelApp\\Domain\\Entities\\Comic.cs",
+              "RelativeToolTip": "Domain\\Entities\\Comic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:14:29.646Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Api</name>
+    </assembly>
+    <members>
+        <member name="M:Api.Controllers.AuthController.Register(Application.DTOs.RegisterUserDto)">
+            <summary>
+            Registro de nuevo usuario.
+            </summary>
+            <param name="registerUserDto">Objeto con los datos del usuario a registrar (nombre, email, contraseña, identificación).</param>
+            <returns>Resultado del registro del usuario.</returns>
+            <response code="200">Usuario registrado exitosamente.</response>
+            <response code="409">El correo electrónico ya está registrado.</response>
+            <response code="400">Error de validación o error al registrar el usuario.</response>
+        </member>
+        <member name="M:Api.Controllers.AuthController.Login(Application.DTOs.LoginDto)">
+            <summary>
+            Inicio de sesión de usuario.
+            </summary>
+            <param name="loginDto">Objeto que contiene las credenciales del usuario (email y contraseña).</param>
+            <returns>Devuelve un token JWT si la autenticación es exitosa.</returns>
+            <response code="200">Login exitoso. Se devuelve el token JWT.</response>
+            <response code="401">Credenciales inválidas. No autorizado.</response>
+            <response code="400">Error de validación en los datos enviados.</response>
+        </member>
+        <member name="M:Api.Controllers.ComicController.GetComics">
+            <summary>
+            Obtener lista de cómics disponibles.
+            </summary>
+            <returns>Listado de cómics.</returns>
+            <response code="200">Lista de cómics obtenida exitosamente.</response>
+            <response code="400">Error al obtener la lista de cómics.</response>
+        </member>
+        <member name="M:Api.Controllers.ComicController.GetComicById(System.Int32)">
+            <summary>
+            HU02_CA02 - Obtener detalles de un cómic específico.
+            </summary>
+            <param name="id">ID del cómic a consultar.</param>
+            <returns>Datos del cómic.</returns>
+            <response code="200">Cómic obtenido exitosamente.</response>
+            <response code="204">No se encontró el cómic solicitado.</response>
+            <response code="400">Error al obtener el cómic.</response>
+        </member>
+        <member name="M:Api.Controllers.ComicController.AddFavorite(Application.DTOs.AddFavoriteComicDto)">
+            <summary>
+            Agregar un cómic a favoritos.
+            </summary>
+            <param name="favoriteDto">Información del cómic a agregar a favoritos.</param>
+            <returns>Resultado de la operación.</returns>
+            <response code="201">Cómic agregado a favoritos exitosamente.</response>
+            <response code="409">El cómic ya estaba en favoritos.</response>
+            <response code="400">Error al agregar el cómic a favoritos.</response>
+        </member>
+        <member name="M:Api.Controllers.ComicController.GetFavorites">
+            <summary>
+            Obtener la lista de cómics favoritos del usuario.
+            </summary>
+            <returns>Lista de cómics favoritos.</returns>
+            <response code="200">Lista de favoritos obtenida exitosamente.</response>
+            <response code="400">Error al obtener los favoritos.</response>
+        </member>
+        <member name="M:Api.Controllers.ComicController.DeleteFavorite(System.Guid)">
+            <summary>
+            Eliminar un cómic de la lista de favoritos.
+            </summary>
+            <param name="id">ID del favorito a eliminar.</param>
+            <returns>Resultado de la operación.</returns>
+            <response code="204">Favorito eliminado exitosamente.</response>
+            <response code="400">Error al eliminar el favorito.</response>
+        </member>
+    </members>
+</doc>
